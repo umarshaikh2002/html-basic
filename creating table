@@ -1,3 +1,35 @@
 <!doctype html>
 <html>
-<head
+<head> <title> Shaikh umar </title> </head>
+<body>
+
+
+<h1> Marks sheet </h1>
+<table border = "1">
+<tr>
+<th> English </th>
+<th> Hindi </th>
+<th> Maths </th>
+</tr>
+
+<tr>
+<td> 100 </td>
+<td> 100 </td>
+<td> 100 </td>
+</tr>
+
+<tr>
+<td> 55 </td>
+<td> 44 </td>
+<td> 33 </td>
+</tr>
+
+<tr>
+<td> 67</td>
+<td> 92 </td>
+<td> 72 </td>
+</tr>
+
+</table>
+</body>
+</html>
